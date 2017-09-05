@@ -9,24 +9,44 @@ import static thinking.in.net.mindview.util.Print.*;
 class Car {
     private boolean waxOn = false;
 
+    /**
+     * 打蜡操作
+     */
     public synchronized void waxed() {
         waxOn = true; // Ready to buff
         notifyAll();
     }
 
+    /**
+     * 抛光操作
+     */
     public synchronized void buffed() {
         waxOn = false; // Ready for another coat of wax
         notifyAll();
     }
 
+    /**
+     * 等待打蜡
+     * 
+     * @throws InterruptedException
+     */
     public synchronized void waitForWaxing() throws InterruptedException {
-        while (waxOn == false)
+        while (waxOn == false) {
+            System.err.println("waxOn == false, 等待打蜡");
             wait();
+        }
     }
 
+    /**
+     * 等待抛光
+     * 
+     * @throws InterruptedException
+     */
     public synchronized void waitForBuffing() throws InterruptedException {
-        while (waxOn == true)
+        while (waxOn == true) {
+            System.err.println("waxOn == true, 等待抛光");
             wait();
+        }
     }
 }
 
@@ -41,7 +61,7 @@ class WaxOn implements Runnable {
         try {
             while (!Thread.interrupted()) {
                 car.waitForBuffing();
-                
+
                 print("Wax On! ");
                 TimeUnit.MILLISECONDS.sleep(200);
                 car.waxed();
@@ -64,7 +84,7 @@ class WaxOff implements Runnable {
         try {
             while (!Thread.interrupted()) {
                 car.waitForWaxing();
-                
+
                 print("Wax Off! ");
                 TimeUnit.MILLISECONDS.sleep(200);
                 car.buffed();

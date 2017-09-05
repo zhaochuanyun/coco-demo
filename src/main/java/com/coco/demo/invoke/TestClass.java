@@ -24,4 +24,12 @@ public class TestClass {
             System.out.println(str);
         }
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj instanceof TestClass) {
+            return this.str.equals(((TestClass) obj).str);
+        }
+        return false;
+    }
 }
