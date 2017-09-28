@@ -2,6 +2,7 @@ package com.coco.demo.aop;
 
 /**
  * https://my.oschina.net/stephenzhang/blog/664593
+ * 
  * @author mvpzhao
  *
  */
@@ -19,7 +20,7 @@ public class TestProxy {
         ICustomerService serviceBean = (ICustomerService) serviceProxy;
 
         // 调用业务逻辑操作
-        serviceBean.doSomething1();
+        serviceBean.someMethod();
     }
 
 }

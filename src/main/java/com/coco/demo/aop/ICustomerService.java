@@ -2,8 +2,8 @@ package com.coco.demo.aop;
 
 public interface ICustomerService {
 
-    public void doSomething1();
+    public void someMethod();
 
-    public void doSomething2();
+    public void someInnerMethod();
 
 }

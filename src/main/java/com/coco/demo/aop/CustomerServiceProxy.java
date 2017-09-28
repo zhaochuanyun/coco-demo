@@ -8,26 +8,26 @@ public class CustomerServiceProxy implements ICustomerService {
         this.customerService = customerService;
     }
 
-    public void doSomething1() {
+    public void someMethod() {
         doBefore();
-        customerService.doSomething1();
+        customerService.someMethod();
         doAfter();
     }
 
-    public void doSomething2() {
+    public void someInnerMethod() {
         doBefore();
-        customerService.doSomething2();
+        customerService.someInnerMethod();
         doAfter();
     }
 
     private void doBefore() {
         // 例如，可以在此处开启事务
-        System.out.println("do some important things before...");
+        System.out.println("--- aop - do some important things before...");
     }
 
     private void doAfter() {
         // 例如，可以在此处提交或回滚事务、释放资源等等
-        System.out.println("do some important things after...");
+        System.out.println("--- aop - do some important things after...");
     }
 
 }
