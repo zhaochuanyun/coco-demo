@@ -1,7 +1,8 @@
 package com.coco.demo.aop;
 
 /**
- * https://my.oschina.net/stephenzhang/blog/664593
+ * https://my.oschina.net/stephenzhang/blog/664593 http://fyting.iteye.com/blog/109236
+ * http://www.iteye.com/topic/1122740
  * 
  * @author mvpzhao
  *
