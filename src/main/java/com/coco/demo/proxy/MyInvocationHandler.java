@@ -30,6 +30,7 @@ public class MyInvocationHandler implements InvocationHandler {
     /**
      * 执行目标对象的方法
      */
+    @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 
         // 在目标对象的方法执行之前简单的打印一下
