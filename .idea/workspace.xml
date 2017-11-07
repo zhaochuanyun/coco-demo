@@ -2,443 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad1796a6-5aa0-4d59-9e37-7f31ec98cbac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ant_ant_1_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__classworlds_classworlds_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_couchbase_client_1_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_1_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jtidy_jtidy_4aug2000r7_dev.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_kosmosfs_kfs_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_spy_spymemcached_2_11_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_core_1_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_sink_api_1_0_alpha_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_error_diagnostics_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_monitor_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_descriptor_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_parameter_documenter_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_registry_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_profile_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_project_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugins_maven_resources_plugin_2_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_filtering_1_0_beta_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_1_0_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_1_0_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_1_0_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_1_0_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_common_1_0_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_ssh_external_1_0_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_10_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_10_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_10_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9_stable_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interactivity_api_1_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_core_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_build_api_0_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_zeromq_jeromq_0_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coco-demo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/demo/invoke/TestInvoke.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/demo/invoke/TestInvoke.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/demo/proxy/ProxyTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/demo/proxy/ProxyTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/demo/search/RotateArraySearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/demo/search/RotateArraySearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/demo/sort/Basic.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/demo/sort/Basic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/ForecastDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/ForecastDisplay.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/StatisticsDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/StatisticsDisplay.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/WeatherData.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/WeatherData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/ChocolateChip.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/ChocolateChip.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/ChocolateChip2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/ChocolateChip2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/Dinner.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/Dinner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/ImportedMyClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/ImportedMyClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/LibTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/LibTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/PrintTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/PrintTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/QualifiedMyClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/access/QualifiedMyClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitComposition.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitComposition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample1.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample3.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample4.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample5.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExample5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExternalTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/AtUnitExternalTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/HashSetTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/HashSetTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/StackLStringTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/StackLStringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/Testable.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/annotations/Testable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/AlphabeticSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/AlphabeticSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ArrayOptions.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ArrayOptions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ArraySearching.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ArraySearching.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/CompType.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/CompType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ComparatorTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ComparatorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ComparingArrays.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ComparingArrays.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ContainerComparison.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/ContainerComparison.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/CopyingArrays.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/CopyingArrays.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/FillingArrays.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/FillingArrays.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/GeneratorsTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/GeneratorsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/PrimitiveConversionDemonstration.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/PrimitiveConversionDemonstration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/RandomGeneratorsTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/RandomGeneratorsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/Reverse.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/Reverse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/StringSorting.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/StringSorting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/TestArrayGeneration.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/TestArrayGeneration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/TestGenerated.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/arrays/TestGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/bangbean/BangBeanTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/bangbean/BangBeanTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ActiveObjectDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ActiveObjectDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/CarBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/CarBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/CloseResource.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/CloseResource.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/CountDownLatchDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/CountDownLatchDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/DaemonFromFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/DaemonFromFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Daemons.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Daemons.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/DaemonsDontRunFinally.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/DaemonsDontRunFinally.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/DelayQueueDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/DelayQueueDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ExchangerDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ExchangerDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/FastSimulation.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/FastSimulation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/HorseRace.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/HorseRace.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Interrupting.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Interrupting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Interrupting2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Interrupting2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/InterruptingIdiom.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/InterruptingIdiom.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Joining.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Joining.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ListComparisons.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ListComparisons.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/MapComparisons.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/MapComparisons.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/MultiLock.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/MultiLock.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/NIOInterruption.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/NIOInterruption.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/OrnamentalGarden.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/OrnamentalGarden.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Philosopher.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Philosopher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/PipedIO.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/PipedIO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/PriorityBlockingQueueDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/PriorityBlockingQueueDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ReaderWriterList.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ReaderWriterList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Restaurant.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Restaurant.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/SemaphoreDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/SemaphoreDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/SimpleDaemons.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/SimpleDaemons.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/SyncObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/SyncObject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/SynchronizationComparisons.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/SynchronizationComparisons.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/TestBlockingQueues.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/TestBlockingQueues.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Tester.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/Tester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ThreadVariations.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ThreadVariations.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ToastOMatic.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/ToastOMatic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/restaurant2/RestaurantWithQueues.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/restaurant2/RestaurantWithQueues.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/waxomatic/WaxOMatic.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/waxomatic/WaxOMatic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/waxomatic2/WaxOMatic2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/concurrency/waxomatic2/WaxOMatic2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/AssociativeArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/AssociativeArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Bits.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Bits.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/CollectionDataGeneration.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/CollectionDataGeneration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/CollectionDataTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/CollectionDataTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/CollectionMethods.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/CollectionMethods.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/CountedString.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/CountedString.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/DequeTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/DequeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Enumerations.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Enumerations.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/IndividualTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/IndividualTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/LinkedHashMapDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/LinkedHashMapDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/ListPerformance.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/ListPerformance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/ListSortSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/ListSortSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Lists.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Lists.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/MapDataTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/MapDataTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Maps.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Maps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/QueueBehavior.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/QueueBehavior.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/RandomBounds.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/RandomBounds.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/ReadOnly.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/ReadOnly.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SimpleHashMap.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SimpleHashMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SlowMap.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SlowMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SortedMapDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SortedMapDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SortedSetDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SortedSetDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SpringDetector.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/SpringDetector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Stacks.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Stacks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Utilities.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/containers/Utilities.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/BreakAndContinue.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/BreakAndContinue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/ForEachInt.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/ForEachInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/IfElse.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/IfElse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/IfElse2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/IfElse2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/LabeledFor.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/LabeledFor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/LabeledWhile.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/LabeledWhile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/VowelsAndConsonants.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/control/VowelsAndConsonants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/CarWash.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/CarWash.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/EnumClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/EnumClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/EnumMaps.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/EnumMaps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/EnumSets.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/EnumSets.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/NotClasses.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/NotClasses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/OverrideConstantSpecific.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/OverrideConstantSpecific.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/OzWitch.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/OzWitch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/PostOffice.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/PostOffice.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RandomTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RandomTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/Reflection.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/Reflection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo1.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo3.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo5.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo6.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/RoShamBo6.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/SecurityCategory.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/SecurityCategory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/TrafficLight.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/TrafficLight.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/VendingMachine.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/VendingMachine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/cartoons/EnumImplementation.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/cartoons/EnumImplementation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/menu/Course.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/menu/Course.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/menu/Meal2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/menu/Meal2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/menu/TypeOfFood.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/enumerated/menu/TypeOfFood.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/AlwaysFinally.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/AlwaysFinally.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/DynamicFields.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/DynamicFields.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/ExceptionMethods.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/ExceptionMethods.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/ExtraFeatures.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/ExtraFeatures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/MultipleReturns.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/MultipleReturns.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/Switch.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/Switch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/TurnOffChecking.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/exceptions/TurnOffChecking.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Apply.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Apply.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/BankTeller.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/BankTeller.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/BasicGeneratorDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/BasicGeneratorDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/CheckedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/CheckedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/DogsAndRobots.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/DogsAndRobots.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/DynamicProxyMixin.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/DynamicProxyMixin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/ExplicitTypeSpecification.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/ExplicitTypeSpecification.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Fibonacci.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Fibonacci.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Fill2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Fill2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Functional.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Functional.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Generators.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Generators.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/InstantiateGenericType.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/InstantiateGenericType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/LatentReflection.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/LatentReflection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/LimitsOfInference.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/LimitsOfInference.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/PrimitiveGenericTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/PrimitiveGenericTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/SimplerPets.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/SimplerPets.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Store.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/Store.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/TupleList.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/TupleList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/TupleTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/TupleTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/TupleTest2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/TupleTest2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/WatercolorSets.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/WatercolorSets.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/coffee/CoffeeGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/generics/coffee/CoffeeGenerator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/BangBean2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/BangBean2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/BeanDumper.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/BeanDumper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/BorderLayout1.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/BorderLayout1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Borders.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Borders.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Button1.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Button1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Button2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Button2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Button2b.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Button2b.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/ButtonGroups.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/ButtonGroups.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Buttons.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Buttons.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/CheckBoxes.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/CheckBoxes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/ColorBoxes.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/ColorBoxes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/ComboBoxes.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/ComboBoxes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Dialogs.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Dialogs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Faces.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Faces.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/FileChooserTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/FileChooserTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/FlowLayout1.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/FlowLayout1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/GridLayout1.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/GridLayout1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/HTMLButton.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/HTMLButton.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/InterruptableLongRunningCallable.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/InterruptableLongRunningCallable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/InterruptableLongRunningTask.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/InterruptableLongRunningTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/List.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/List.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/LongRunningTask.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/LongRunningTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/LookAndFeel.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/LookAndFeel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Menus.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Menus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/MessageBoxes.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/MessageBoxes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/MonitoredLongRunningCallable.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/MonitoredLongRunningCallable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Popup.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Popup.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Progress.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/Progress.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/RadioButtons.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/RadioButtons.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/ShowAddListeners.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/ShowAddListeners.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/SimpleMenus.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/SimpleMenus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/SineWave.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/SineWave.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TabbedPane1.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TabbedPane1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TextArea.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TextArea.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TextFields.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TextFields.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TextPane.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TextPane.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TicTacToe.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TicTacToe.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TrackEvent.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/gui/TrackEvent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/CollectionSequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/CollectionSequence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/ContainerMethods.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/ContainerMethods.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/CrossContainerIteration.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/CrossContainerIteration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/InterfaceVsIterator.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/InterfaceVsIterator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/LinkedListFeatures.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/LinkedListFeatures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/ListFeatures.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/ListFeatures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/ListIteration.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/ListIteration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/MapOfList.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/MapOfList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/NonCollectionSequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/NonCollectionSequence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/PetMap.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/PetMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/PrintingContainers.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/PrintingContainers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/SetOperations.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/SetOperations.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/SimpleIteration.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/SimpleIteration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/StackCollision.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/StackCollision.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/StackTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/StackTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/UniqueWords.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/UniqueWords.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/UniqueWordsAlphabetic.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/holding/UniqueWordsAlphabetic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/ArrayClassObj.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/ArrayClassObj.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/ArrayNew.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/ArrayNew.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/ArraysOfPrimitives.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/ArraysOfPrimitives.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/Demotion.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/Demotion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/ExplicitStatic.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/ExplicitStatic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/Flower.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/Flower.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/InitialValues.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/InitialValues.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/Mugs.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/Mugs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/OrderOfInitialization.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/OrderOfInitialization.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/Overloading.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/Overloading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/OverloadingOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/OverloadingOrder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/PrimitiveOverloading.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/PrimitiveOverloading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/StaticInitialization.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/initialization/StaticInitialization.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/AnonymousConstructor.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/AnonymousConstructor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/BigEgg.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/BigEgg.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/BigEgg2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/BigEgg2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/Callbacks.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/Callbacks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/Factories.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/Factories.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/Games.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/Games.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/GreenhouseController.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/GreenhouseController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/GreenhouseControls.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/GreenhouseControls.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/LocalInnerClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/innerclasses/LocalInnerClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/Factories.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/Factories.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/Games.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/Games.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/TestRandVals.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/TestRandVals.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/classprocessor/Apply.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/classprocessor/Apply.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/interfaceprocessor/Apply.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/interfaceprocessor/Apply.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/interfaceprocessor/FilterProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/interfaceprocessor/FilterProcessor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/music4/Music4.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/music4/Music4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/music5/Music5.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/interfaces/music5/Music5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/AvailableCharSets.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/AvailableCharSets.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Blip3.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Blip3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Blips.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Blips.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/DirectoryDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/DirectoryDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Endians.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Endians.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/GetData.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/GetData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/LargeMappedFiles.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/LargeMappedFiles.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Logon.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Logon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/MyWorld.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/MyWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/OSExecuteDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/OSExecuteDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/PreferencesDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/PreferencesDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/UsingBuffers.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/UsingBuffers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/ViewBuffers.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/ViewBuffers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Worm.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/Worm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/ZipCompress.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/io/ZipCompress.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/net/mindview/atunit/AtUnit.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/net/mindview/atunit/AtUnit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/net/mindview/atunit/ClassNameFinder.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/net/mindview/atunit/ClassNameFinder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/net/mindview/util/Countries.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/net/mindview/util/Countries.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/Assignment.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/Assignment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/AutoInc.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/AutoInc.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/BitManipulation.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/BitManipulation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/Bool.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/Bool.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/CastingNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/CastingNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/HelloDate.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/HelloDate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/Literals.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/Literals.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/MathOps.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/MathOps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/PassObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/PassObject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/RoundingNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/RoundingNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/ShortCircuit.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/ShortCircuit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/StringOperators.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/StringOperators.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/TernaryIfElse.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/TernaryIfElse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/URShift.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/operators/URShift.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/Frog.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/Frog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/PolyConstructors.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/PolyConstructors.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/PrivateOverride.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/PrivateOverride.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/ReferenceCounting.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/ReferenceCounting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/Sandwich.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/Sandwich.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/Shapes.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/Shapes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/Transmogrify.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/Transmogrify.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/music/Instrument.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/music/Instrument.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/music/Music2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/music/Music2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/music3/Music3.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/music3/Music3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/shape/Circle.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/shape/Circle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/shape/Square.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/shape/Square.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/shape/Triangle.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/polymorphism/shape/Triangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Bath.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Bath.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Beetle.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Beetle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/CADSystem.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/CADSystem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Cartoon.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Cartoon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Chess.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Chess.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Detergent.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Detergent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/FinalData.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/FinalData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/FinalOverridingIllusion.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/FinalOverridingIllusion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Hide.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Hide.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Orc.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/Orc.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/PlaceSetting.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/reusing/PlaceSetting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/ArrayListDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/ArrayListDisplay.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/Finding.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/Finding.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/Groups.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/Groups.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/Immutable.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/Immutable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/JGrep.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/JGrep.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/Replacing.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/Replacing.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/SplitDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/SplitDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/StartEnd.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/StartEnd.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/TestRegularExpression.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/TestRegularExpression.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/TheReplacements.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/strings/TheReplacements.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/AnonymousImplementation.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/AnonymousImplementation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/FamilyVsExactType.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/FamilyVsExactType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/HiddenImplementation.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/HiddenImplementation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/InnerImplementation.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/InnerImplementation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/InterfaceViolation.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/InterfaceViolation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/NullRobot.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/NullRobot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/Person.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/PetCount.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/PetCount.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/PetCount2.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/PetCount2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/PetCount3.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/PetCount3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/PetCount4.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/PetCount4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/RegisteredFactories.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/RegisteredFactories.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/Robot.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/Robot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/SelectingMethods.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/SelectingMethods.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/ShowMethods.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/ShowMethods.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/SimpleProxyDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/SimpleProxyDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/SweetShop.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/SweetShop.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/packageaccess/HiddenC.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/packageaccess/HiddenC.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/toys/ToyTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/java/typeinfo/toys/ToyTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/net/mindview/atunit/AtUnit.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/net/mindview/atunit/AtUnit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/net/mindview/atunit/ClassNameFinder.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/net/mindview/atunit/ClassNameFinder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/coco/thinking/net/mindview/util/Countries.java" afterPath="$PROJECT_DIR$/src/main/java/com/coco/thinking/net/mindview/util/Countries.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -449,84 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ForecastDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/ForecastDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StatisticsDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/StatisticsDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongLiveMinorGC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/demo/gc/LongLiveMinorGC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Generics.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/demo/generics/Generics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GuavaTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/demo/guava/GuavaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/WeatherData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DisplayElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/DisplayElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -603,15 +90,15 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
+      <flattenPackages ProjectPane="false" />
       <showMembers />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource ProjectPane="false" />
-      <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType ProjectPane="true" />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
@@ -650,115 +137,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="coco" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coco-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="coco" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coco-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="coco" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="gc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coco-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="coco" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coco-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="coco" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
-              <item name="Generics" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coco-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="coco" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="guava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coco-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="coco" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="guava" type="462c0819:PsiDirectoryNode" />
-              <item name="GuavaTest" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coco-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="coco" type="462c0819:PsiDirectoryNode" />
-              <item name="headfirst" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coco-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="Observer" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -990,16 +368,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510035667993</updated>
-      <workItem from="1510035669583" duration="1073000" />
+      <workItem from="1510035669583" duration="1245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1073000" />
+    <option name="totallyTimeSpent" value="1245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="953" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1010,12 +387,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34249085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1228,34 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/ForecastDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/StatisticsDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -1284,9 +633,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/demo/guava/GuavaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/swing/SwingObserverExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="10" lean-forward="false" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coco/headfirst/observer/weatherStation/ForecastDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
