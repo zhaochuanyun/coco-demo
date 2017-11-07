@@ -14,6 +14,7 @@ public class MyException {
         }
         num = 100;
         return num;
+
     }
 
     public static void main(String[] args) {
