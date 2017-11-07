@@ -2,7 +2,7 @@ package com.coco.thinking.java.enumerated;
 
 //: enumerated/NotClasses.java
 // {Exec: javap -c LikeClasses}
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 enum LikeClasses {
     WINKEN {

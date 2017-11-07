@@ -1,11 +1,11 @@
 package com.coco.thinking.java.holding;
 
 //: holding/StackCollision.java
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class StackCollision {
     public static void main(String[] args) {
-        thinking.in.net.mindview.util.Stack<String> stack = new thinking.in.net.mindview.util.Stack<String>();
+        com.coco.thinking.java.net.mindview.util.Stack<String> stack = new com.coco.thinking.java.net.mindview.util.Stack<String>();
         for (String s : "My dog has fleas".split(" "))
             stack.push(s);
         while (!stack.empty())

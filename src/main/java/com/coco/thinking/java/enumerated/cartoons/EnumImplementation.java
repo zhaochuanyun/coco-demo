@@ -4,7 +4,7 @@ package com.coco.thinking.java.enumerated.cartoons;
 
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 enum CartoonCharacter implements Generator<CartoonCharacter> {
     SLAPPY, SPANKY, PUNCHY, SILLY, BOUNCY, NUTTY, BOB;

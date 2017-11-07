@@ -2,7 +2,7 @@
 // Enums using "tables" instead of multiple dispatch.
 package com.coco.thinking.java.enumerated;
 
-import static thinking.in.java.enumerated.Outcome.*;
+import static com.coco.thinking.java.enumerated.Outcome.*;
 
 enum RoShamBo6 implements Competitor<RoShamBo6> {
     PAPER, SCISSORS, ROCK;

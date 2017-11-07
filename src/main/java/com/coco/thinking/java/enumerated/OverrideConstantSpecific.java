@@ -1,7 +1,7 @@
 package com.coco.thinking.java.enumerated;
 
 //: enumerated/OverrideConstantSpecific.java
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public enum OverrideConstantSpecific {
     NUT, BOLT, WASHER {

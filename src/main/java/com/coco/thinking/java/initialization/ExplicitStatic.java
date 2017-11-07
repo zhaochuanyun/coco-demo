@@ -2,7 +2,7 @@ package com.coco.thinking.java.initialization;
 
 //: initialization/ExplicitStatic.java
 // Explicit static initialization with the "static" clause.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Cup {
     Cup(int marker) {

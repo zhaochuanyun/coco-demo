@@ -2,7 +2,7 @@ package com.coco.thinking.java.access;
 
 //: access/PrintTest.java
 // Uses the static printing methods in Print.java.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class PrintTest {
     public static void main(String[] args) {

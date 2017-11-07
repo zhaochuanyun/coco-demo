@@ -6,7 +6,7 @@ import javax.swing.*;
 
 import java.awt.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class GridLayout1 extends JFrame {
     public GridLayout1() {

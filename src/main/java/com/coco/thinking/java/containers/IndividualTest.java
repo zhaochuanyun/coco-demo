@@ -1,8 +1,8 @@
 package com.coco.thinking.java.containers;
 
 //: containers/IndividualTest.java
-import thinking.in.java.holding.MapOfList;
-import thinking.in.java.typeinfo.pets.*;
+import com.coco.thinking.java.holding.MapOfList;
+import com.coco.thinking.java.typeinfo.pets.*;
 
 import java.util.*;
 

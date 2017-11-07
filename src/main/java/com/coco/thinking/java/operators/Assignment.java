@@ -2,7 +2,7 @@ package com.coco.thinking.java.operators;
 
 //: operators/Assignment.java
 // Assignment with objects is a bit tricky.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Tank {
     int level;

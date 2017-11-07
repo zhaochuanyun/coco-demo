@@ -7,7 +7,7 @@ import javax.swing.border.*;
 
 import java.awt.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class Borders extends JFrame {
     static JPanel showBorder(Border b) {

@@ -7,7 +7,7 @@ import java.nio.*;
 import java.nio.channels.*;
 import java.io.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class LargeMappedFiles {
     static int length = 0x8FFFFFF; // 128 MB

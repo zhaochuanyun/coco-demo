@@ -4,7 +4,7 @@ package com.coco.thinking.java.typeinfo;
 // Looking for particular methods in a dynamic proxy.
 import java.lang.reflect.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class MethodSelector implements InvocationHandler {
     private Object proxied;

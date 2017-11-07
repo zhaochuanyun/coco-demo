@@ -2,7 +2,7 @@ package com.coco.thinking.java.control;
 
 //: control/BreakAndContinue.java
 // Demonstrates break and continue keywords.
-import static thinking.in.net.mindview.util.Range.*;
+import static com.coco.thinking.java.net.mindview.util.Range.*;
 
 public class BreakAndContinue {
     public static void main(String[] args) {

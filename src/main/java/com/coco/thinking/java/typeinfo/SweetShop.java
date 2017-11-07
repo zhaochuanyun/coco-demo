@@ -2,7 +2,7 @@ package com.coco.thinking.java.typeinfo;
 
 //: typeinfo/SweetShop.java
 // Examination of the way the class loader works.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Candy {
     static {

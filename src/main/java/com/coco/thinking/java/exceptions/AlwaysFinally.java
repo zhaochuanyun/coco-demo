@@ -2,7 +2,7 @@ package com.coco.thinking.java.exceptions;
 
 //: exceptions/AlwaysFinally.java
 // Finally is always executed.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class FourException extends Exception {
 }

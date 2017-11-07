@@ -4,7 +4,7 @@ package com.coco.thinking.java.concurrency;
 // Daemon threads spawn other daemon threads.
 import java.util.concurrent.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Daemon implements Runnable {
     private Thread[] t = new Thread[10];

@@ -9,7 +9,7 @@ import java.awt.event.*;
 import java.lang.reflect.*;
 import java.util.regex.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class ShowAddListeners extends JFrame {
     private JTextField name = new JTextField(25);

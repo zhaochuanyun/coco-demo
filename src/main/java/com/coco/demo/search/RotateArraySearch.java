@@ -1,7 +1,5 @@
 package com.coco.demo.search;
 
-import org.junit.Test;
-
 /**
  * 旋转有序数组的二分查找
  * 
@@ -42,7 +40,7 @@ public class RotateArraySearch extends AbstractSearch {
         return -1;
     }
 
-    @Test
+    //@Test
     public void test() {
         for (int i = 0; i < 8; i++) {
             testSearch(array3, i);

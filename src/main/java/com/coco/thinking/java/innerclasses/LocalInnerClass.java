@@ -2,7 +2,7 @@ package com.coco.thinking.java.innerclasses;
 
 //: innerclasses/LocalInnerClass.java
 // Holds a sequence of Objects.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 interface Counter {
     int next();

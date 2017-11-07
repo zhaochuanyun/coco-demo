@@ -2,7 +2,7 @@ package com.coco.thinking.java.initialization;
 
 //: initialization/Demotion.java
 // Demotion of primitives and overloading.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class Demotion {
     void f1(char x) {

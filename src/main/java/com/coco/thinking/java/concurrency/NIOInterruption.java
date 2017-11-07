@@ -8,7 +8,7 @@ import java.nio.channels.*;
 import java.util.concurrent.*;
 import java.io.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class NIOBlocked implements Runnable {
     private final SocketChannel sc;

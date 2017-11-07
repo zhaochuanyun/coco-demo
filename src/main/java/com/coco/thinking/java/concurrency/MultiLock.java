@@ -2,7 +2,7 @@ package com.coco.thinking.java.concurrency;
 
 //: concurrency/MultiLock.java
 // One thread can reacquire the same lock.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class MultiLock {
     public synchronized void f1(int count) {

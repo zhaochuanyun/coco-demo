@@ -7,7 +7,7 @@ import javax.swing.event.*;
 
 import java.awt.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class TabbedPane1 extends JFrame {
     private String[] flavors = { "Chocolate", "Strawberry", "Vanilla Fudge Swirl", "Mint Chip",

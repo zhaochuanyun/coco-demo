@@ -1,8 +1,8 @@
 //: annotations/AtUnitExample3.java
 package com.coco.thinking.java.annotations;
 
-import thinking.in.net.mindview.atunit.*;
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.atunit.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class AtUnitExample3 {
     private int n;

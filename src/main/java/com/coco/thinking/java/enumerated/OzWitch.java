@@ -2,7 +2,7 @@ package com.coco.thinking.java.enumerated;
 
 //: enumerated/OzWitch.java
 // The witches in the land of Oz.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public enum OzWitch {
     // Instances must be defined first, before methods:

@@ -5,7 +5,7 @@ package com.coco.thinking.java.containers;
 // {Args: 100 500} Small to keep build testing short
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class ListPerformance {
     static Random rand = new Random();

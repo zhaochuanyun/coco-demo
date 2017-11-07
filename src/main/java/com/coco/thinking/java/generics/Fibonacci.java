@@ -2,7 +2,7 @@ package com.coco.thinking.java.generics;
 
 //: generics/Fibonacci.java
 // Generate a Fibonacci sequence.
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class Fibonacci implements Generator<Integer> {
     private int count = 0;

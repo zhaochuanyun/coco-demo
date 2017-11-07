@@ -2,7 +2,7 @@ package com.coco.thinking.java.io;
 
 //: io/OSExecuteDemo.java
 // Demonstrates standard I/O redirection.
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class OSExecuteDemo {
     public static void main(String[] args) {

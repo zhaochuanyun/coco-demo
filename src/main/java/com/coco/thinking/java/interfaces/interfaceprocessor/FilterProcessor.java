@@ -1,7 +1,7 @@
 //: interfaces/interfaceprocessor/FilterProcessor.java
 package com.coco.thinking.java.interfaces.interfaceprocessor;
 
-import thinking.in.java.interfaces.filters.*;
+import com.coco.thinking.java.interfaces.filters.*;
 
 class FilterAdapter implements Processor {
     Filter filter;

@@ -5,7 +5,7 @@ import java.util.concurrent.*;
 import java.util.*;
 
 import static java.util.concurrent.TimeUnit.*;
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class DelayedTask implements Runnable, Delayed {
     private static int counter = 0;

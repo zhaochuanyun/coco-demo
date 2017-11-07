@@ -4,7 +4,7 @@ package com.coco.thinking.java.concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 class ExchangerProducer<T> implements Runnable {
     private Generator<T> generator;

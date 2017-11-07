@@ -2,8 +2,6 @@ package com.coco.demo.sort;
 
 import java.util.Random;
 
-import org.junit.Test;
-
 /**
  * 排序基础类
  * 
@@ -30,7 +28,7 @@ public abstract class Basic {
         array[j] = tmp;
     }
 
-    @Test
+    // @Test
     public void test() throws Exception {
         int[] array = this.getArray();
         Long before = System.currentTimeMillis();

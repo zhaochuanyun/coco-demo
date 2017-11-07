@@ -1,5 +1,6 @@
 package com.coco.headfirst.observer.weatherStation;
 
+import java.util.Observable;
 import java.util.Observer;
 
 public class ForecastDisplay implements Observer, DisplayElement {
@@ -28,5 +29,10 @@ public class ForecastDisplay implements Observer, DisplayElement {
         } else if (currentPressure < lastPressure) {
             System.out.println("Watch out for cooler, rainy weather");
         }
+    }
+
+    @Override
+    public void update(Observable o, Object arg) {
+
     }
 }

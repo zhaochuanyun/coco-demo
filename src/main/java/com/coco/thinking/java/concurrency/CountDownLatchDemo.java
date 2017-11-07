@@ -4,7 +4,7 @@ package com.coco.thinking.java.concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 // Performs some portion of a task:
 class TaskPortion implements Runnable {

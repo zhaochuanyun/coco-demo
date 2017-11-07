@@ -3,7 +3,7 @@ package com.coco.thinking.java.exceptions;
 //: exceptions/DynamicFields.java
 // A Class that dynamically adds fields to itself.
 // Demonstrates exception chaining.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class DynamicFieldsException extends Exception {
 }

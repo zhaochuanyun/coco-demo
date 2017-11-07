@@ -4,7 +4,7 @@ package com.coco.thinking.java.generics.coffee;
 
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class CoffeeGenerator implements Generator<Coffee>, Iterable<Coffee> {
     private Class[] types = { Latte.class, Mocha.class, Cappuccino.class, Americano.class,

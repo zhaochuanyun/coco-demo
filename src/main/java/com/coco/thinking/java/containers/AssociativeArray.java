@@ -2,7 +2,7 @@ package com.coco.thinking.java.containers;
 
 //: containers/AssociativeArray.java
 // Associates keys with values.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class AssociativeArray<K, V> {
     private Object[][] pairs;

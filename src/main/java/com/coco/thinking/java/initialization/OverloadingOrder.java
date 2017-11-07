@@ -2,7 +2,7 @@ package com.coco.thinking.java.initialization;
 
 //: initialization/OverloadingOrder.java
 // Overloading based on the order of the arguments.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class OverloadingOrder {
     static void f(String s, int i) {

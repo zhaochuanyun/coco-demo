@@ -6,7 +6,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class SimpleMenus extends JFrame {
     private JTextField t = new JTextField(15);

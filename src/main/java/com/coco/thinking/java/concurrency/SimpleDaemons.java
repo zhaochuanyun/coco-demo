@@ -4,7 +4,7 @@ package com.coco.thinking.java.concurrency;
 // Daemon threads don't prevent the program from ending.
 import java.util.concurrent.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class SimpleDaemons implements Runnable {
     public void run() {

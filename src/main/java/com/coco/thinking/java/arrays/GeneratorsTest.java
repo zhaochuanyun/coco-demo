@@ -1,7 +1,7 @@
 package com.coco.thinking.java.arrays;
 
 //: arrays/GeneratorsTest.java
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class GeneratorsTest {
     public static int size = 10;

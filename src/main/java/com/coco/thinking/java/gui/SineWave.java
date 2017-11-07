@@ -7,7 +7,7 @@ import javax.swing.event.*;
 
 import java.awt.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 class SineDraw extends JPanel {
     private static final int SCALEFACTOR = 200;

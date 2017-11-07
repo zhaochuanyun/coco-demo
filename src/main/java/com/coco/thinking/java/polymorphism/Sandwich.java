@@ -2,7 +2,7 @@
 // Order of constructor calls.
 package com.coco.thinking.java.polymorphism;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Meal {
     Meal() {

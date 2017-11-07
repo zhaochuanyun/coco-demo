@@ -2,7 +2,7 @@
 // Overloading instead of upcasting.
 package com.coco.thinking.java.polymorphism.music;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Stringed extends Instrument {
     public void play(Note n) {

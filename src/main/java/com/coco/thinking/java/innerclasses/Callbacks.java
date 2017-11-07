@@ -2,7 +2,7 @@
 // Using inner classes for callbacks
 package com.coco.thinking.java.innerclasses;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 interface Incrementable {
     void increment();

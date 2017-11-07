@@ -4,7 +4,7 @@ package com.coco.thinking.java.generics;
 // Building up a complex model using generic containers.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 class Product {
     private final int id;

@@ -1,7 +1,7 @@
 //: enumerated/menu/Meal2.java
 package com.coco.thinking.java.enumerated.menu;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public enum Meal2 {
     APPETIZER(Food.Appetizer.class), MAINCOURSE(Food.MainCourse.class), DESSERT(Food.Dessert.class), COFFEE(

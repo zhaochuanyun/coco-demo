@@ -3,7 +3,7 @@ package com.coco.thinking.java.io;
 //: io/ViewBuffers.java
 import java.nio.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class ViewBuffers {
     public static void main(String[] args) {

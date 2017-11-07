@@ -2,7 +2,7 @@ package com.coco.thinking.java.initialization;
 
 //: initialization/StaticInitialization.java
 // Specifying initial values in a class definition.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Bowl {
     Bowl(int marker) {

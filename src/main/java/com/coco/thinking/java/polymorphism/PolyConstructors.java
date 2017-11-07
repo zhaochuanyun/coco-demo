@@ -3,7 +3,7 @@ package com.coco.thinking.java.polymorphism;
 //: polymorphism/PolyConstructors.java
 // Constructors and polymorphism
 // don't produce what you might expect.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Glyph {
     void draw() {

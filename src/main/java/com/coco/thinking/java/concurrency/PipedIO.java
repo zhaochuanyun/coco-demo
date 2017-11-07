@@ -6,7 +6,7 @@ import java.util.concurrent.*;
 import java.io.*;
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Sender implements Runnable {
     private Random rand = new Random(47);

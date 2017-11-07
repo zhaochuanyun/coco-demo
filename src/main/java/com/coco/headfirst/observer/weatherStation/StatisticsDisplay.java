@@ -1,5 +1,6 @@
 package com.coco.headfirst.observer.weatherStation;
 
+import java.util.Observable;
 import java.util.Observer;
 
 public class StatisticsDisplay implements Observer, DisplayElement {
@@ -32,5 +33,10 @@ public class StatisticsDisplay implements Observer, DisplayElement {
     public void display() {
         System.out.println("Avg/Max/Min temperature = " + (tempSum / numReadings) + "/" + maxTemp
                 + "/" + minTemp);
+    }
+
+    @Override
+    public void update(Observable o, Object arg) {
+
     }
 }

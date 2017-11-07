@@ -4,8 +4,8 @@ package com.coco.thinking.java.containers;
 // Using the Collections.unmodifiable methods.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class ReadOnly {
     static Collection<String> data = new ArrayList<String>(Countries.names(6));

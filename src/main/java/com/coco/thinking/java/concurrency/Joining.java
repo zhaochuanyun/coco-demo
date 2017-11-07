@@ -2,7 +2,7 @@ package com.coco.thinking.java.concurrency;
 
 //: concurrency/Joining.java
 // Understanding join().
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Sleeper extends Thread {
     private int duration;

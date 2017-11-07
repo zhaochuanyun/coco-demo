@@ -2,7 +2,7 @@ package com.coco.thinking.java.reusing;
 
 //: reusing/Bath.java
 // Constructor initialization with composition.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Soap {
     private String s;

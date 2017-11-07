@@ -4,7 +4,7 @@ package com.coco.thinking.java.concurrency;
 // Creating threads with inner classes.
 import java.util.concurrent.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 // Using a named inner class:
 class InnerThread1 {

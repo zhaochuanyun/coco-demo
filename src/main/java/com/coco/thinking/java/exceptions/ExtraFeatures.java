@@ -2,7 +2,7 @@ package com.coco.thinking.java.exceptions;
 
 //: exceptions/ExtraFeatures.java
 // Further embellishment of exception classes.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class MyException2 extends Exception {
     private int x;

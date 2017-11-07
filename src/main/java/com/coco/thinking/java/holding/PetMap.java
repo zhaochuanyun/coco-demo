@@ -1,11 +1,11 @@
 package com.coco.thinking.java.holding;
 
 //: holding/PetMap.java
-import thinking.in.java.typeinfo.pets.*;
+import com.coco.thinking.java.typeinfo.pets.*;
 
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class PetMap {
     public static void main(String[] args) {

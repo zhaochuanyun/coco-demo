@@ -3,7 +3,7 @@ package com.coco.thinking.java.reusing;
 //: reusing/Hide.java
 // Overloading a base-class method name in a derived
 // class does not hide the base-class versions.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Homer {
     char doh(char c) {

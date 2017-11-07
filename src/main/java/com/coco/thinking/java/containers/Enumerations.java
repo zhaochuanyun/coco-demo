@@ -4,7 +4,7 @@ package com.coco.thinking.java.containers;
 // Java 1.0/1.1 Vector and Enumeration.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class Enumerations {
     public static void main(String[] args) {

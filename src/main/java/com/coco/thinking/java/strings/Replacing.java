@@ -1,7 +1,7 @@
 package com.coco.thinking.java.strings;
 
 //: strings/Replacing.java
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.net.mindview.util.Print.*;
 
 public class Replacing {
     static String s = Splitting.knights;

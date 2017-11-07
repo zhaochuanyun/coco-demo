@@ -7,7 +7,7 @@ import javax.swing.*;
 
 import java.awt.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class LookAndFeel extends JFrame {
     private String[] choices = "Eeny Meeny Minnie Mickey Moe Larry Curly".split(" ");

@@ -4,7 +4,7 @@ package com.coco.thinking.java.containers;
 // Demonstration of Stack Class.
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 enum Month {
     JANUARY, FEBRUARY, MARCH, APRIL, MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER
@@ -33,7 +33,7 @@ public class Stacks {
 
         // Using the Stack class from
         // the Holding Your Objects Chapter:
-        thinking.in.net.mindview.util.Stack<String> stack2 = new thinking.in.net.mindview.util.Stack<String>();
+        com.coco.thinking.java.net.mindview.util.Stack<String> stack2 = new com.coco.thinking.java.net.mindview.util.Stack<String>();
         for (Month m : Month.values())
             stack2.push(m.toString());
         print("stack2 = " + stack2);

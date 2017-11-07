@@ -7,8 +7,8 @@ import java.lang.reflect.*;
 import java.io.*;
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class AtUnit implements ProcessFiles.Strategy {
     static Class<?> testClass;

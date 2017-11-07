@@ -2,7 +2,7 @@ package com.coco.thinking.java.control;
 
 //: control/LabeledWhile.java
 // While loops with "labeled break" and "labeled continue."
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class LabeledWhile {
     public static void main(String[] args) {

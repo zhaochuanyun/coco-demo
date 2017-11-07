@@ -1,9 +1,9 @@
 package com.coco.thinking.java.typeinfo;
 
 //: typeinfo/PetCount4.java
-import thinking.in.java.typeinfo.pets.*;
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.typeinfo.pets.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class PetCount4 {
     public static void main(String[] args) {

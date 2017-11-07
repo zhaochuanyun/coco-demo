@@ -3,7 +3,7 @@ package com.coco.thinking.java.io;
 //: io/PreferencesDemo.java
 import java.util.prefs.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class PreferencesDemo {
     public static void main(String[] args) throws Exception {

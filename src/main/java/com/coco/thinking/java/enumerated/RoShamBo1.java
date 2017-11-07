@@ -4,7 +4,7 @@ package com.coco.thinking.java.enumerated;
 
 import java.util.*;
 
-import static thinking.in.java.enumerated.Outcome.*;
+import static com.coco.thinking.java.enumerated.Outcome.*;
 
 interface Item {
     Outcome compete(Item it);

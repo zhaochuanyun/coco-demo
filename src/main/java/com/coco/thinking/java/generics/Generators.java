@@ -2,8 +2,8 @@ package com.coco.thinking.java.generics;
 
 //: generics/Generators.java
 // A utility to use with Generators.
-import thinking.in.java.generics.coffee.*;
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.generics.coffee.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 import java.util.*;
 

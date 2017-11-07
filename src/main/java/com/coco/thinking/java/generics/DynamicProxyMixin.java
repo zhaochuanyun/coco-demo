@@ -4,8 +4,8 @@ package com.coco.thinking.java.generics;
 import java.lang.reflect.*;
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Tuple.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Tuple.*;
 
 class MixinProxy implements InvocationHandler {
     Map<String, Object> delegatesByMethod;

@@ -4,7 +4,7 @@ package com.coco.thinking.java.generics;
 // Combining generic types to make complex generic types.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class TupleList<A, B, C, D> extends ArrayList<FourTuple<A, B, C, D>> {
     public static void main(String[] args) {

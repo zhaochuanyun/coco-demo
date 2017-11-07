@@ -3,7 +3,7 @@ package com.coco.thinking.java.operators;
 //: operators/PassObject.java
 // Passing objects to methods may not be
 // what you're used to.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Letter {
     char c;

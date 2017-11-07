@@ -3,7 +3,7 @@ package com.coco.demo.invoke;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 
-import headfirst.singleton.dcl.Singleton;
+import com.coco.headfirst.singleton.dcl.Singleton;
 
 public class TestInvoke {
 

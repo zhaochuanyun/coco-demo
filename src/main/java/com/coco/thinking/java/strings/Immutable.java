@@ -1,7 +1,7 @@
 package com.coco.thinking.java.strings;
 
 //: strings/Immutable.java
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class Immutable {
     public static String upcase(String s) {

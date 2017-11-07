@@ -6,7 +6,7 @@ import javax.swing.*;
 
 import java.awt.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class Button1 extends JFrame {
     private JButton b1 = new JButton("Button 1"), b2 = new JButton("Button 2");

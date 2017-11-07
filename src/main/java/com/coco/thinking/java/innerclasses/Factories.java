@@ -1,7 +1,7 @@
 package com.coco.thinking.java.innerclasses;
 
 //: innerclasses/Factories.java
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 interface Service {
     void method1();

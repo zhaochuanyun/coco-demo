@@ -7,7 +7,7 @@ package com.coco.thinking.java.typeinfo;
 import java.lang.reflect.*;
 import java.util.regex.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class ShowMethods {
     private static String usage = "usage:\n" + "ShowMethods qualified.class.name\n"

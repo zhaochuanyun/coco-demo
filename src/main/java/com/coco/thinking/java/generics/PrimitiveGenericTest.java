@@ -1,7 +1,7 @@
 package com.coco.thinking.java.generics;
 
 //: generics/PrimitiveGenericTest.java
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 // Fill an array using a generator:
 class FArray {

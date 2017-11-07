@@ -5,8 +5,8 @@ package com.coco.thinking.java.containers;
 import java.util.concurrent.*;
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class Maps {
     public static void printKeys(Map<Integer, String> map) {

@@ -2,7 +2,7 @@
 // Common tools for RoShamBo examples.
 package com.coco.thinking.java.enumerated;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class RoShamBo {
     public static <T extends Competitor<T>> void match(T a, T b) {

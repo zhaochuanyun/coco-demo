@@ -2,7 +2,7 @@
 // Trying to override a private method.
 package com.coco.thinking.java.polymorphism;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class PrivateOverride {
     private void f() {

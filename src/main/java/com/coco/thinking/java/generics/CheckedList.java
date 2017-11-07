@@ -2,7 +2,7 @@ package com.coco.thinking.java.generics;
 
 //: generics/CheckedList.java
 // Using Collection.checkedList().
-import thinking.in.java.typeinfo.pets.*;
+import com.coco.thinking.java.typeinfo.pets.*;
 import java.util.*;
 
 public class CheckedList {

@@ -3,7 +3,7 @@ package com.coco.thinking.java.holding;
 //: holding/UniqueWords.java
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class UniqueWords {
     public static void main(String[] args) {

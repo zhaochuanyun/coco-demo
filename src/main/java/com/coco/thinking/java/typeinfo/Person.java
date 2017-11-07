@@ -2,7 +2,7 @@ package com.coco.thinking.java.typeinfo;
 
 //: typeinfo/Person.java
 // A class with a Null Object.
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 class Person {
     public final String first;

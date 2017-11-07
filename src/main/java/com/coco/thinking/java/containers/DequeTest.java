@@ -1,8 +1,8 @@
 package com.coco.thinking.java.containers;
 
 //: containers/DequeTest.java
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class DequeTest {
     static void fillTest(Deque<Integer> deque) {

@@ -1,7 +1,5 @@
 package com.coco.demo.proxy;
 
-import org.junit.Test;
-
 /**
  * 动态代理测试类
  * 
@@ -12,7 +10,7 @@ import org.junit.Test;
  */
 public class ProxyTest {
 
-    @Test
+    // @Test
     public void testProxy() throws Throwable {
         // 实例化目标对象
         UserService userService = new UserServiceImpl();

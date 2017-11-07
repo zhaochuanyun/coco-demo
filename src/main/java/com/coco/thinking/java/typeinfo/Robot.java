@@ -3,7 +3,7 @@ package com.coco.thinking.java.typeinfo;
 //: typeinfo/Robot.java
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public interface Robot {
     String name();

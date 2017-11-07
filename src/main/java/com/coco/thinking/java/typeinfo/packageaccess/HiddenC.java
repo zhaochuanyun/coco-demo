@@ -1,8 +1,8 @@
 //: typeinfo/packageaccess/HiddenC.java
 package com.coco.thinking.java.typeinfo.packageaccess;
 
-import thinking.in.java.typeinfo.interfacea.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.typeinfo.interfacea.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class C implements A {
     public void f() {

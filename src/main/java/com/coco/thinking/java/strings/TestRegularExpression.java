@@ -5,7 +5,7 @@ package com.coco.thinking.java.strings;
 // {Args: abcabcabcdefabc "abc+" "(abc)+" "(abc){2,}" }
 import java.util.regex.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class TestRegularExpression {
     public static void main(String[] args) {

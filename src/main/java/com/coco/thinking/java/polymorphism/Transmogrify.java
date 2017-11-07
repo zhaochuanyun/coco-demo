@@ -3,7 +3,7 @@ package com.coco.thinking.java.polymorphism;
 //: polymorphism/Transmogrify.java
 // Dynamically changing the behavior of an object
 // via composition (the "State" design pattern).
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Actor {
     public void act() {

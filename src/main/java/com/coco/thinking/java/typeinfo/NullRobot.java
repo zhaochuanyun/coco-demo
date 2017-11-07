@@ -5,7 +5,7 @@ package com.coco.thinking.java.typeinfo;
 import java.lang.reflect.*;
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 class NullRobotProxyHandler implements InvocationHandler {
     private String nullName;

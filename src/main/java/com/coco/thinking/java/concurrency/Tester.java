@@ -4,7 +4,7 @@ package com.coco.thinking.java.concurrency;
 // Framework to test performance of concurrency containers.
 import java.util.concurrent.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public abstract class Tester<C> {
     static int testReps = 10;

@@ -2,7 +2,7 @@ package com.coco.thinking.java.concurrency;
 
 //: concurrency/SyncObject.java
 // Synchronizing on another object.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class DualSynch {
     private Object syncObject = new Object();

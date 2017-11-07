@@ -2,7 +2,7 @@ package com.coco.thinking.java.access;
 
 //: access/LibTest.java
 // Uses the library.
-import thinking.in.net.mindview.simple.*;
+import com.coco.thinking.java.net.mindview.simple.*;
 
 public class LibTest {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package com.coco.thinking.java.generics;
 
 //: generics/BasicGeneratorDemo.java
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class BasicGeneratorDemo {
     public static void main(String[] args) {

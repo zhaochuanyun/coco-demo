@@ -1,7 +1,7 @@
 package com.coco.thinking.java.exceptions;
 
 //: exceptions/MultipleReturns.java
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class MultipleReturns {
     public static void f(int i) {

@@ -2,7 +2,7 @@ package com.coco.thinking.java.typeinfo;
 
 //: typeinfo/InterfaceViolation.java
 // Sneaking around an interface.
-import thinking.in.java.typeinfo.interfacea.*;
+import com.coco.thinking.java.typeinfo.interfacea.*;
 
 class B implements A {
     public void f() {

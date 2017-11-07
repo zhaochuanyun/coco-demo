@@ -4,7 +4,7 @@ package com.coco.thinking.java.containers;
 // A demonstration hashed Map.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class SimpleHashMap<K, V> extends AbstractMap<K, V> {
     // Choose a prime number for the hash table

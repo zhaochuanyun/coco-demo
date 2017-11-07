@@ -1,8 +1,8 @@
 package com.coco.thinking.java.generics;
 
 //: generics/SimplerPets.java
-import thinking.in.java.typeinfo.pets.*;
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.typeinfo.pets.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 import java.util.*;
 

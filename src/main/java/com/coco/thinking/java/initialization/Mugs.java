@@ -2,7 +2,7 @@ package com.coco.thinking.java.initialization;
 
 //: initialization/Mugs.java
 // Java "Instance Initialization."
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Mug {
     Mug(int marker) {

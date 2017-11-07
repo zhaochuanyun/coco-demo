@@ -3,7 +3,7 @@ package com.coco.thinking.java.initialization;
 //: initialization/Overloading.java
 // Demonstration of both constructor
 // and ordinary method overloading.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Tree {
     int height;

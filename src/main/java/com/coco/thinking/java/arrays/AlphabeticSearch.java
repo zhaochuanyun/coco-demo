@@ -4,7 +4,7 @@ package com.coco.thinking.java.arrays;
 // Searching with a Comparator.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class AlphabeticSearch {
     public static void main(String[] args) {

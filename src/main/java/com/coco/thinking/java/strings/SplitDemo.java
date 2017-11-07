@@ -4,7 +4,7 @@ package com.coco.thinking.java.strings;
 import java.util.regex.*;
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class SplitDemo {
     public static void main(String[] args) {

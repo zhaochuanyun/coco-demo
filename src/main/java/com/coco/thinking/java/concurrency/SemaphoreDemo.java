@@ -5,7 +5,7 @@ package com.coco.thinking.java.concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 // A task to check a resource out of a pool:
 class CheckoutTask<T> implements Runnable {

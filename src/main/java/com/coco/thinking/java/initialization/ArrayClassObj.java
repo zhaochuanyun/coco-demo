@@ -4,7 +4,7 @@ package com.coco.thinking.java.initialization;
 // Creating an array of nonprimitive objects.
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class ArrayClassObj {
     public static void main(String[] args) {

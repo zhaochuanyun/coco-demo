@@ -2,8 +2,8 @@ package com.coco.thinking.java.typeinfo;
 
 //: typeinfo/InnerImplementation.java
 // Private inner classes can't hide from reflection.
-import thinking.in.java.typeinfo.interfacea.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.typeinfo.interfacea.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class InnerA {
     private static class C implements A {

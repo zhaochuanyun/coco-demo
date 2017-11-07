@@ -4,13 +4,13 @@ package com.coco.thinking.java.gui;
 // Using the JTextArea control.
 import javax.swing.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class TextArea extends JFrame {
     private JButton b = new JButton("Add Data"), c = new JButton("Clear Data");

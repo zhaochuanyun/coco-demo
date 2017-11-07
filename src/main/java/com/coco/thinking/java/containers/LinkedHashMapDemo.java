@@ -4,8 +4,8 @@ package com.coco.thinking.java.containers;
 // What you can do with a LinkedHashMap.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class LinkedHashMapDemo {
     public static void main(String[] args) {

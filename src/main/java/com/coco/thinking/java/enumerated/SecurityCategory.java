@@ -2,7 +2,7 @@ package com.coco.thinking.java.enumerated;
 
 //: enumerated/SecurityCategory.java
 // More succinct subcategorization of enums.
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 enum SecurityCategory {
     STOCK(Security.Stock.class), BOND(Security.Bond.class);

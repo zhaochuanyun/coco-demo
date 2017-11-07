@@ -4,8 +4,8 @@ package com.coco.thinking.java.arrays;
 // Implementing a Comparator for a class.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class CompTypeComparator implements Comparator<CompType> {
     public int compare(CompType o1, CompType o2) {

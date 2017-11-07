@@ -4,13 +4,13 @@ package com.coco.thinking.java.gui;
 // Displaying task progress with ProgressMonitors.
 import javax.swing.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 import java.awt.*;
 import java.awt.event.*;
 import java.util.concurrent.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 class MonitoredCallable implements Callable<String> {
     private static int counter = 0;

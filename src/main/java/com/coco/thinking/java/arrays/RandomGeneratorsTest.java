@@ -1,7 +1,7 @@
 package com.coco.thinking.java.arrays;
 
 //: arrays/RandomGeneratorsTest.java
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class RandomGeneratorsTest {
     public static void main(String[] args) {

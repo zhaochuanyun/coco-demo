@@ -4,8 +4,8 @@ package com.coco.thinking.java.enumerated;
 // Modeling a post office.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Mail {
     // The NO's lower the probability of random selection:

@@ -4,6 +4,6 @@ package com.coco.thinking.java.access;
 
 public class QualifiedMyClass {
     public static void main(String[] args) {
-        thinking.in.java.access.mypackage.MyClass m = new thinking.in.java.access.mypackage.MyClass();
+        com.coco.thinking.java.access.mypackage.MyClass m = new com.coco.thinking.java.access.mypackage.MyClass();
     }
 } // /:~

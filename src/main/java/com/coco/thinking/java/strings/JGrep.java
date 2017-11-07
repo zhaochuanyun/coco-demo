@@ -5,7 +5,7 @@ package com.coco.thinking.java.strings;
 // {Args: JGrep.java "\\b[Ssct]\\w+"}
 import java.util.regex.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class JGrep {
     public static void main(String[] args) throws Exception {

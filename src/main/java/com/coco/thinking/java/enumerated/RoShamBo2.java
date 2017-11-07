@@ -2,7 +2,7 @@
 // Switching one enum on another.
 package com.coco.thinking.java.enumerated;
 
-import static thinking.in.java.enumerated.Outcome.*;
+import static com.coco.thinking.java.enumerated.Outcome.*;
 
 public enum RoShamBo2 implements Competitor<RoShamBo2> {
     PAPER(DRAW, LOSE, WIN), SCISSORS(WIN, DRAW, LOSE), ROCK(LOSE, WIN, DRAW);

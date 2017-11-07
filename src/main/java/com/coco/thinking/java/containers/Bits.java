@@ -4,7 +4,7 @@ package com.coco.thinking.java.containers;
 // Demonstration of BitSet.
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class Bits {
     public static void printBitSet(BitSet b) {

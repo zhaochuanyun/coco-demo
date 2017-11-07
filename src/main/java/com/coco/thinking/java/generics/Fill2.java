@@ -3,12 +3,12 @@ package com.coco.thinking.java.generics;
 //: generics/Fill2.java
 // Using adapters to simulate latent typing.
 // {main: Fill2Test}
-import thinking.in.java.generics.coffee.*;
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.generics.coffee.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 interface Addable<T> {
     void add(T t);

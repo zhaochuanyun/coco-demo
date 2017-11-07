@@ -1,7 +1,7 @@
 //: interfaces/interfaceprocessor/Apply.java
 package com.coco.thinking.java.interfaces.interfaceprocessor;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class Apply {
     public static void process(Processor p, Object s) {

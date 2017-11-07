@@ -5,7 +5,7 @@ package com.coco.thinking.java.concurrency;
 import java.util.concurrent.*;
 import java.io.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class LiftOffRunner implements Runnable {
     private BlockingQueue<LiftOff> rockets;

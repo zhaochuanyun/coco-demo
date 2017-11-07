@@ -5,7 +5,7 @@ package com.coco.thinking.java.generics;
 import java.lang.reflect.*;
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class Apply {
     public static <T, S extends Iterable<? extends T>> void apply(S seq, Method f, Object... args) {

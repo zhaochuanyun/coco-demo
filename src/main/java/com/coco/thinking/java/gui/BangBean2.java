@@ -10,7 +10,7 @@ import java.awt.event.*;
 import java.io.*;
 import java.util.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class BangBean2 extends JPanel implements Serializable {
     private int xm, ym;

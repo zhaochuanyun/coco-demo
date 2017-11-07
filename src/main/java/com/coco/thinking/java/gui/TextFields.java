@@ -9,7 +9,7 @@ import javax.swing.text.*;
 import java.awt.*;
 import java.awt.event.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class TextFields extends JFrame {
     private JButton b1 = new JButton("Get Text"), b2 = new JButton("Set Text");

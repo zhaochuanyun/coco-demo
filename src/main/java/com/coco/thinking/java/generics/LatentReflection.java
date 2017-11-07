@@ -4,7 +4,7 @@ package com.coco.thinking.java.generics;
 // Using Reflection to produce latent typing.
 import java.lang.reflect.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 // Does not implement Performs:
 class Mime {

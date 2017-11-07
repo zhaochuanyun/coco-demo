@@ -9,7 +9,7 @@ import java.awt.event.*;
 import java.beans.*;
 import java.lang.reflect.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class BeanDumper extends JFrame {
     private JTextField query = new JTextField(20);

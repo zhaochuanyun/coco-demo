@@ -2,7 +2,7 @@ package com.coco.thinking.java.initialization;
 
 //: initialization/OrderOfInitialization.java
 // Demonstrates initialization order.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 // When the constructor is called to create a
 // Window object, you'll see a message:

@@ -1,7 +1,7 @@
 package com.coco.thinking.java.access;
 
 //: access/ImportedMyClass.java
-import thinking.in.java.access.mypackage.*;
+import com.coco.thinking.java.access.mypackage.*;
 
 public class ImportedMyClass {
     public static void main(String[] args) {

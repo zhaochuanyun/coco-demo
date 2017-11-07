@@ -8,7 +8,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.concurrent.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class LongRunningTask extends JFrame {
     private JButton b1 = new JButton("Start Long Running Task"), b2 = new JButton(

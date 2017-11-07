@@ -2,8 +2,8 @@
 // An extensible program.
 package com.coco.thinking.java.polymorphism.music3;
 
-import thinking.in.java.polymorphism.music.Note;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.polymorphism.music.Note;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Instrument {
     void play(Note n) {

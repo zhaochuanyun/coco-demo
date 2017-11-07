@@ -3,8 +3,8 @@ package com.coco.thinking.java.annotations;
 
 import java.util.*;
 
-import thinking.in.net.mindview.atunit.*;
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.atunit.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class HashSetTest {
     HashSet<String> testObject = new HashSet<String>();

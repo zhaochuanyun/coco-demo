@@ -8,7 +8,7 @@ import java.util.zip.*;
 import java.io.*;
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class ZipCompress {
     public static void main(String[] args) throws IOException {

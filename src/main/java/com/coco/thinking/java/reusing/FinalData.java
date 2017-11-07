@@ -4,7 +4,7 @@ package com.coco.thinking.java.reusing;
 // The effect of final on fields.
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Value {
     int i; // Package access

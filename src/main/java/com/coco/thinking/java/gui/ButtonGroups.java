@@ -9,7 +9,7 @@ import javax.swing.border.*;
 import java.awt.*;
 import java.lang.reflect.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class ButtonGroups extends JFrame {
     private static String[] ids = { "June", "Ward", "Beaver", "Wally", "Eddie", "Lumpy" };

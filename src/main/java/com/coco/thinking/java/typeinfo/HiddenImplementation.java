@@ -2,8 +2,8 @@ package com.coco.thinking.java.typeinfo;
 
 //: typeinfo/HiddenImplementation.java
 // Sneaking around package access.
-import thinking.in.java.typeinfo.interfacea.*;
-import thinking.in.java.typeinfo.packageaccess.*;
+import com.coco.thinking.java.typeinfo.interfacea.*;
+import com.coco.thinking.java.typeinfo.packageaccess.*;
 import java.lang.reflect.*;
 
 public class HiddenImplementation {

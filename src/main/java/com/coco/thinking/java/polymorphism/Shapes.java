@@ -2,7 +2,7 @@ package com.coco.thinking.java.polymorphism;
 
 //: polymorphism/Shapes.java
 // Polymorphism in Java.
-import thinking.in.java.polymorphism.shape.*;
+import com.coco.thinking.java.polymorphism.shape.*;
 
 public class Shapes {
     private static RandomShapeGenerator gen = new RandomShapeGenerator();

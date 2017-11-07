@@ -5,7 +5,7 @@ package com.coco.thinking.java.innerclasses;
 // control system, all in a single class. Inner
 // classes allow you to encapsulate different
 // functionality for each type of event.
-import thinking.in.java.innerclasses.controller.*;
+import com.coco.thinking.java.innerclasses.controller.*;
 
 public class GreenhouseControls extends Controller {
     private boolean light = false;

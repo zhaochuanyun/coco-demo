@@ -3,7 +3,7 @@ package com.coco.thinking.java.innerclasses;
 //: innerclasses/GreenhouseController.java
 // Configure and execute the greenhouse system.
 // {Args: 5000}
-import thinking.in.java.innerclasses.controller.*;
+import com.coco.thinking.java.innerclasses.controller.*;
 
 public class GreenhouseController {
     public static void main(String[] args) {

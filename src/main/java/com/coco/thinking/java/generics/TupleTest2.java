@@ -1,8 +1,8 @@
 package com.coco.thinking.java.generics;
 
 //: generics/TupleTest2.java
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Tuple.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Tuple.*;
 
 public class TupleTest2 {
     static TwoTuple<String, Integer> f() {

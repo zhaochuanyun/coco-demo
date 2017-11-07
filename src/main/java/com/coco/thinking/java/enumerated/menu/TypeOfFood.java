@@ -1,7 +1,7 @@
 //: enumerated/menu/TypeOfFood.java
 package com.coco.thinking.java.enumerated.menu;
 
-import static thinking.in.java.enumerated.menu.Food.*;
+import static com.coco.thinking.java.enumerated.menu.Food.*;
 
 public class TypeOfFood {
     public static void main(String[] args) {

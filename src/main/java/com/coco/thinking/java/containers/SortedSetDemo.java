@@ -4,7 +4,7 @@ package com.coco.thinking.java.containers;
 // What you can do with a TreeSet.
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class SortedSetDemo {
     public static void main(String[] args) {

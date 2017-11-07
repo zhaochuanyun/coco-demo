@@ -2,7 +2,7 @@ package com.coco.thinking.java.initialization;
 
 //: initialization/InitialValues.java
 // Shows default initial values.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class InitialValues {
     boolean t;

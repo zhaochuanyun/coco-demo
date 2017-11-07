@@ -4,13 +4,13 @@ package com.coco.thinking.java.gui;
 // Using Callables for long-running tasks.
 import javax.swing.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 import java.awt.*;
 import java.awt.event.*;
 import java.util.concurrent.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 class CallableTask extends Task implements Callable<String> {
     public String call() {

@@ -2,8 +2,8 @@
 // Applying @Unit to generics.
 package com.coco.thinking.java.annotations;
 
-import thinking.in.net.mindview.atunit.*;
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.atunit.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class StackLStringTest extends StackL<String> {
     @Test

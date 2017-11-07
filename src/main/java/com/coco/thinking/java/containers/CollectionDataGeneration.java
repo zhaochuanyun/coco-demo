@@ -4,7 +4,7 @@ package com.coco.thinking.java.containers;
 // Using the Generators defined in the Arrays chapter.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class CollectionDataGeneration {
     public static void main(String[] args) {

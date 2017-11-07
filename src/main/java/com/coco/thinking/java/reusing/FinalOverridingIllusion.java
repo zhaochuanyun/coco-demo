@@ -3,7 +3,7 @@ package com.coco.thinking.java.reusing;
 //: reusing/FinalOverridingIllusion.java
 // It only looks like you can override
 // a private or private final method.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class WithFinals {
     // Identical to "private" alone:

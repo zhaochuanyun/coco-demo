@@ -1,7 +1,7 @@
 package com.coco.thinking.java.holding;
 
 //: holding/StackTest.java
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 public class StackTest {
     public static void main(String[] args) {

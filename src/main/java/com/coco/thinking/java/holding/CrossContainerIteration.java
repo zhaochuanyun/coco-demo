@@ -1,7 +1,7 @@
 package com.coco.thinking.java.holding;
 
 //: holding/CrossContainerIteration.java
-import thinking.in.java.typeinfo.pets.*;
+import com.coco.thinking.java.typeinfo.pets.*;
 import java.util.*;
 
 public class CrossContainerIteration {

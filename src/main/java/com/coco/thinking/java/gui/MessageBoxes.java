@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class MessageBoxes extends JFrame {
     private JButton[] b = { new JButton("Alert"), new JButton("Yes/No"), new JButton("Color"),

@@ -2,7 +2,7 @@ package com.coco.thinking.java.innerclasses;
 
 //: innerclasses/BigEgg2.java
 // Proper inheritance of an inner class.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Egg2 {
     protected class Yolk {

@@ -1,7 +1,7 @@
 package com.coco.thinking.java.access;
 
 //: access/ChocolateChip2.java
-import thinking.in.java.access.cookie2.*;
+import com.coco.thinking.java.access.cookie2.*;
 
 public class ChocolateChip2 extends Cookie {
     public ChocolateChip2() {

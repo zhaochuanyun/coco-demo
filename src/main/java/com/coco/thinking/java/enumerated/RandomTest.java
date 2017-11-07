@@ -1,7 +1,7 @@
 package com.coco.thinking.java.enumerated;
 
 //: enumerated/RandomTest.java
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 enum Activity {
     SITTING, LYING, STANDING, HOPPING, RUNNING, DODGING, JUMPING, FALLING, FLYING

@@ -2,12 +2,12 @@ package com.coco.thinking.java.typeinfo;
 
 //: typeinfo/PetCount3.java
 // Using isInstance()
-import thinking.in.java.typeinfo.pets.*;
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.typeinfo.pets.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class PetCount3 {
     static class PetCounter extends LinkedHashMap<Class<? extends Pet>, Integer> {

@@ -2,7 +2,7 @@
 // Testing class Class.
 package com.coco.thinking.java.typeinfo.toys;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 interface HasBatteries {
 }

@@ -3,8 +3,8 @@ package com.coco.thinking.java.strings;
 //: strings/TheReplacements.java
 import java.util.regex.*;
 
-import thinking.in.net.mindview.util.*;
-import static thinking.in.net.mindview.util.Print.*;
+import com.coco.thinking.java.net.mindview.util.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 /*! Here's a block of text to use as input to
  the regular expression matcher. Note that we'll

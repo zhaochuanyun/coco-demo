@@ -2,7 +2,7 @@ package com.coco.thinking.java.innerclasses;
 
 //: innerclasses/AnonymousConstructor.java
 // Creating a constructor for an anonymous inner class.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 abstract class Base {
     public Base(int i) {

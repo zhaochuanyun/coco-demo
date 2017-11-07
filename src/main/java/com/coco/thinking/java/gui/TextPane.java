@@ -4,12 +4,12 @@ package com.coco.thinking.java.gui;
 // The JTextPane control is a little editor.
 import javax.swing.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 import java.awt.*;
 import java.awt.event.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 public class TextPane extends JFrame {
     private JButton b = new JButton("Add Text");

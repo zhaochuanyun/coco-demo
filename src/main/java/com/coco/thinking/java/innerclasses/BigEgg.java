@@ -2,7 +2,7 @@ package com.coco.thinking.java.innerclasses;
 
 //: innerclasses/BigEgg.java
 // An inner class cannot be overriden like a method.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Egg {
     private Yolk y;

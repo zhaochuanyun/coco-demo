@@ -3,7 +3,7 @@ package com.coco.thinking.java.containers;
 //: containers/RandomBounds.java
 // Does Math.random() produce 0.0 and 1.0?
 // {RunByHand}
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class RandomBounds {
     static void usage() {

@@ -2,7 +2,7 @@ package com.coco.thinking.java.interfaces;
 
 //: interfaces/Games.java
 // A Game framework using Factory Methods.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 interface Game {
     boolean move();

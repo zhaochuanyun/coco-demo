@@ -4,7 +4,7 @@ package com.coco.thinking.java.holding;
 // Containers print themselves automatically.
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class PrintingContainers {
     static Collection fill(Collection<String> collection) {

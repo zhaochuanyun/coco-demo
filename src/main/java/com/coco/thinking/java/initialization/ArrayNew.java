@@ -4,7 +4,7 @@ package com.coco.thinking.java.initialization;
 // Creating arrays with new.
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class ArrayNew {
     public static void main(String[] args) {

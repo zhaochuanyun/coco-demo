@@ -4,7 +4,7 @@ package com.coco.thinking.java.generics;
 // A very simple bank teller simulation.
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 class Customer {
     private static long counter = 1;

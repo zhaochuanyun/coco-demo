@@ -1,8 +1,8 @@
 package com.coco.thinking.java.control;
 
 //: control/ForEachInt.java
-import static thinking.in.net.mindview.util.Print.*;
-import static thinking.in.net.mindview.util.Range.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Range.*;
 
 public class ForEachInt {
     public static void main(String[] args) {

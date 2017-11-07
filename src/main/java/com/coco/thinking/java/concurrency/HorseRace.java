@@ -5,7 +5,7 @@ package com.coco.thinking.java.concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 class Horse implements Runnable {
     private static int counter = 0;

@@ -8,7 +8,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.concurrent.*;
 
-import static thinking.in.net.mindview.util.SwingConsole.*;
+import static com.coco.thinking.java.net.mindview.util.SwingConsole.*;
 
 class Task implements Runnable {
     private static int counter = 0;

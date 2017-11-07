@@ -3,7 +3,7 @@
 package com.coco.thinking.java.interfaces.music5;
 
 import com.coco.thinking.java.polymorphism.music.Note;
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 interface Instrument {
     // Compile-time constant:

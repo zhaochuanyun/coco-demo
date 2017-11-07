@@ -2,7 +2,7 @@ package com.coco.thinking.java.innerclasses;
 
 //: innerclasses/Games.java
 // Using anonymous inner classes with the Game framework.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 interface Game {
     boolean move();

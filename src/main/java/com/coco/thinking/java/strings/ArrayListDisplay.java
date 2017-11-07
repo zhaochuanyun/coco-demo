@@ -1,7 +1,7 @@
 package com.coco.thinking.java.strings;
 
 //: strings/ArrayListDisplay.java
-import thinking.in.java.generics.coffee.*;
+import com.coco.thinking.java.generics.coffee.*;
 import java.util.*;
 
 public class ArrayListDisplay {

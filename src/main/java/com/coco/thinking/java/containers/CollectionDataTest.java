@@ -3,7 +3,7 @@ package com.coco.thinking.java.containers;
 //: containers/CollectionDataTest.java
 import java.util.*;
 
-import thinking.in.net.mindview.util.*;
+import com.coco.thinking.java.net.mindview.util.*;
 
 class Government implements Generator<String> {
     String[] foundation = ("strange women lying in ponds "

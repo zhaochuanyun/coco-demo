@@ -2,7 +2,7 @@ package com.coco.thinking.java.initialization;
 
 //: initialization/PrimitiveOverloading.java
 // Promotion of primitives and overloading.
-import static thinking.in.net.mindview.util.Print.*;
+import static com.coco.thinking.java.net.mindview.util.Print.*;
 
 public class PrimitiveOverloading {
     void f1(char x) {
