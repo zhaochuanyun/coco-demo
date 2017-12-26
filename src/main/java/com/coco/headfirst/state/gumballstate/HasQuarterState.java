@@ -8,7 +8,7 @@ public class HasQuarterState implements State {
     }
 
     public void insertQuarter() {
-        System.out.println("You can't insert another quarter");
+        System.out.println("You can't insert example2 quarter");
     }
 
     public void ejectQuarter() {

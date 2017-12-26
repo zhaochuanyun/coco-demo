@@ -25,7 +25,7 @@ class Car {
     public void buffed() {
         lock.lock();
         try {
-            waxOn = false; // Ready for another coat of wax
+            waxOn = false; // Ready for example2 coat of wax
             condition.signalAll();
         } finally {
             lock.unlock();

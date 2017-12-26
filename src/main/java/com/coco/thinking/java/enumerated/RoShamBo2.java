@@ -1,5 +1,5 @@
 //: enumerated/RoShamBo2.java
-// Switching one enum on another.
+// Switching one enum on example2.
 package com.coco.thinking.java.enumerated;
 
 import static com.coco.thinking.java.enumerated.Outcome.*;

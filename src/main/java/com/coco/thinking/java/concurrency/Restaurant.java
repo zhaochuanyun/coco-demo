@@ -35,7 +35,7 @@ class WaitPerson implements Runnable {
                 print("Waitperson got " + restaurant.meal);
                 synchronized (restaurant.chef) {
                     restaurant.meal = null;
-                    restaurant.chef.notifyAll(); // Ready for another
+                    restaurant.chef.notifyAll(); // Ready for example2
                 }
             }
         } catch (InterruptedException e) {

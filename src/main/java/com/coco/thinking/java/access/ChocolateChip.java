@@ -1,7 +1,7 @@
 package com.coco.thinking.java.access;
 
 //: access/ChocolateChip.java
-// Can't use package-access member from another package.
+// Can't use package-access member from example2 package.
 import com.coco.thinking.java.access.dessert.*;
 
 public class ChocolateChip extends Cookie {

@@ -1,4 +1,4 @@
-package com.coco.test.jdk8;
+package com.coco.demo.jdk8;
 
 import java.util.Arrays;
 import java.util.stream.Stream;
@@ -16,7 +16,7 @@ public class Lambda {
 
 		String[] datas = new String[] { "zhao", "chuan", "yun" };
 		Arrays.sort(datas);
-		Stream.of(datas).forEach(param -> System.out.println(param));
+		Stream.of(datas).forEach(bean -> System.out.println(bean));
 	}
 
 }

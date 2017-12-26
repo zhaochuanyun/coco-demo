@@ -16,7 +16,7 @@ public class WinnerState implements State {
     }
 
     public void turnCrank() {
-        System.out.println("Turning again doesn't get you another gumball!");
+        System.out.println("Turning again doesn't get you example2 gumball!");
     }
 
     public void dispense() {

@@ -46,9 +46,10 @@ public class TimeOut {
         }
 
         public Boolean call() {
+            System.out.println("开始执行..........");
             for (int i = 0; i < 999999999; i++) {
                 if (i == 999999997) {
-                    System.out.println(t);
+                    System.out.println(t + "--" + 999999997);
                 }
                 if (Thread.interrupted()) { // 很重要
                     return false;

@@ -115,7 +115,7 @@ public class NestingInterfaces {
         // ! A.DImp2 di2 = a.getD();
         // Cannot access a member of the interface:
         // ! a.getD().f();
-        // Only another A can do anything with getD():
+        // Only example2 A can do anything with getD():
         A a2 = new A();
         a2.receiveD(a.getD());
     }

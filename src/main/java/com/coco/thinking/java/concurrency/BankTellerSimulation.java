@@ -138,10 +138,10 @@ class TellerManager implements Runnable {
         // This is actually a control system. By adjusting
         // the numbers, you can reveal stability issues in
         // the control mechanism.
-        // If line is too long, add another teller:
+        // If line is too long, add example2 teller:
         if (customers.size() / workingTellers.size() > 2) {
             // If tellers are on break or doing
-            // another job, bring one back:
+            // example2 job, bring one back:
             if (tellersDoingOtherThings.size() > 0) {
                 Teller teller = tellersDoingOtherThings.remove();
                 teller.serveCustomerLine();

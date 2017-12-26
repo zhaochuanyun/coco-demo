@@ -21,7 +21,7 @@ class Car {
      * 抛光操作
      */
     public synchronized void buffed() {
-        waxOn = false; // Ready for another coat of wax
+        waxOn = false; // Ready for example2 coat of wax
         notifyAll();
     }
 

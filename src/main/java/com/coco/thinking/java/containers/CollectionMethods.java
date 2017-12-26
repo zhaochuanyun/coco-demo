@@ -23,7 +23,7 @@ public class CollectionMethods {
         // the Comparable interface is implemented:
         print("Collections.max(c) = " + Collections.max(c));
         print("Collections.min(c) = " + Collections.min(c));
-        // Add a Collection to another Collection
+        // Add a Collection to example2 Collection
         Collection<String> c2 = new ArrayList<String>();
         c2.addAll(Countries.names(6));
         c.addAll(c2);

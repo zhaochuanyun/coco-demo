@@ -19,7 +19,7 @@ public class GumballMachine {
 
     public void insertQuarter() {
         if (state == HAS_QUARTER) {
-            System.out.println("You can't insert another quarter");
+            System.out.println("You can't insert example2 quarter");
         } else if (state == NO_QUARTER) {
             state = HAS_QUARTER;
             System.out.println("You inserted a quarter");
@@ -45,7 +45,7 @@ public class GumballMachine {
 
     public void turnCrank() {
         if (state == SOLD) {
-            System.out.println("Turning twice doesn't get you another gumball!");
+            System.out.println("Turning twice doesn't get you example2 gumball!");
         } else if (state == NO_QUARTER) {
             System.out.println("You turned but there's no quarter");
         } else if (state == SOLD_OUT) {
