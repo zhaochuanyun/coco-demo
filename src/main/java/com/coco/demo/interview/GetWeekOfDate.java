@@ -15,7 +15,65 @@ public class GetWeekOfDate {
 	static char c;
     static String s;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {{
+			Date date = new Date();
+
+			Calendar calendar = Calendar.getInstance();
+			System.err.println(Calendar.DATE);
+			calendar.setTime(date);
+			System.out.println(calendar.get(Calendar.DAY_OF_WEEK) - 1);
+			System.out.println(calendar.get(Calendar.DAY_OF_MONTH));
+
+			// 年
+			System.out.println("yyyy:" + new SimpleDateFormat("yyyy").format(date));
+			// 月
+			System.out.println("MM:" + new SimpleDateFormat("MM").format(date));
+			// 日
+			System.out.println("dd:" + new SimpleDateFormat("dd").format(date));
+			// 时（24小时制）
+			System.out.println("HH:" + new SimpleDateFormat("HH").format(date));
+			// 时（12小时制）
+			System.out.println("hh:" + new SimpleDateFormat("hh").format(date));
+			// 分
+			System.out.println("mm:" + new SimpleDateFormat("mm").format(date));
+			// 秒
+			System.out.println("ss:" + new SimpleDateFormat("ss").format(date));
+			// 星期几
+			System.out.println("EE:" + new SimpleDateFormat("EE").format(date));
+
+			char[] cArray = new char[100];
+			String sArray = new String(cArray);
+			System.out.println(sArray.length() + ":" + sArray + ".");
+
+			@SuppressWarnings("unused")
+			String bBb$ = null;
+
+			// Returns a double value with a positive sign, greater than or equal to 0.0 and less than
+			// 1.0.
+			System.err.println(Math.random() < 0.5);
+
+			System.out.println(Integer.valueOf('a'));
+			System.out.println(Integer.valueOf('z'));
+			System.out.println(Integer.valueOf('A'));
+			System.out.println(Integer.valueOf('Z'));
+
+			String[] strArray = new String[10];
+			System.out.println(Arrays.toString(strArray));
+			System.out.println(strArray.length);
+
+			System.out.println(cArray);
+
+			// 初始化问题
+			System.out.println("c:[" + c + "]");
+			System.out.println("s:" + s);
+
+			int i = 1;
+			long l = 1;
+			double b = 1.2;
+			float f = 1.2f;
+
+			System.err.println(exceptionTest());
+		}
         Date date = new Date();
 
         Calendar calendar = Calendar.getInstance();
