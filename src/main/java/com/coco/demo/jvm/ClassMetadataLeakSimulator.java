@@ -1,10 +1,10 @@
 package com.coco.demo.jvm;
 
-import java.util.Map;
-import java.util.HashMap;
 import java.lang.reflect.Proxy;
 import java.net.URL;
 import java.net.URLClassLoader;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * PermGenRemovalValidator
@@ -23,6 +23,9 @@ public class ClassMetadataLeakSimulator {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+
+		var s = "Hello Java 11";
+		System.out.println(s);
 
 		System.out.println("Class metadata leak simulator");
 		System.out.println("Author: Pierre-Hugues Charbonneau");
