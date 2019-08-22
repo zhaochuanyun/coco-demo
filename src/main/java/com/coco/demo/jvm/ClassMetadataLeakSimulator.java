@@ -1,3 +1,4 @@
+/*
 package com.coco.demo.jvm;
 
 import java.lang.reflect.Proxy;
@@ -6,6 +7,7 @@ import java.net.URLClassLoader;
 import java.util.HashMap;
 import java.util.Map;
 
+*/
 /**
  * PermGenRemovalValidator
  * 
@@ -13,15 +15,18 @@ import java.util.Map;
  * 
  * @author Pierre-Hugues Charbonneau
  * 
- */
+ *//*
+
 public class ClassMetadataLeakSimulator {
 
 	private static Map<String, ClassA> classLeakingMap = new HashMap<String, ClassA>();
 	private final static int NB_ITERATIONS_DEFAULT = 50000;
 
-	/**
+	*/
+/**
 	 * @param args
-	 */
+	 *//*
+
 	public static void main(String[] args) {
 
 		var s = "Hello Java 11";
@@ -60,3 +65,4 @@ public class ClassMetadataLeakSimulator {
 		System.out.println("Done!");
 	}
 }
+*/

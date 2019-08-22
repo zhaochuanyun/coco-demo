@@ -1,4 +1,4 @@
-package com.coco.demo.proxy;
+package com.coco.demo.proxy.jdk;
 
 /**
  * 目标对象

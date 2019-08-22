@@ -1,4 +1,4 @@
-package com.coco.demo.proxy;
+package com.coco.demo.proxy.jdk;
 
 /**
  * 动态代理测试类
