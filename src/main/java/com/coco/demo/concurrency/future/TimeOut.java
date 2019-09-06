@@ -15,13 +15,14 @@ import java.util.concurrent.TimeoutException;
  *
  */
 public class TimeOut {
+
     public static void main(String[] args) {
         int timeout = 2; // 秒.
         ExecutorService executor = Executors.newSingleThreadExecutor();
         Boolean result = false;
         Future<Boolean> future = executor.submit(new MyJob("请求参数"));// 将任务提交到线程池中
         try {
-            result = future.get(timeout * 1000, TimeUnit.MILLISECONDS);// 设定在200毫秒的时间内完成
+            result = future.get(timeout * 100, TimeUnit.MILLISECONDS);// 设定在200毫秒的时间内完成
             System.out.println(result);
         } catch (InterruptedException e) {
             System.out.println("线程中断出错。");
